@@ -57,7 +57,7 @@ is the most dominant shape since our main goal is to always prioritize nature an
 
 ## Results
 
-You can see the explaination of our project in the video below:
+You can see the explanation of our project in the video below:
 [![Presentation Thumb](<./profile/Presentation Thumb.png>)](https://youtu.be/A52kqebpRqg)
 
 We acquired 97.6% completion for our project's progress based on our plans. There were 2 features
@@ -90,7 +90,7 @@ Some ideas that we have for the future are:
    reduce latency. We'd also like to create a beautiful and ergonomic cover for the device. We
    also want to add other sensors to our device such as temperature and humidity sensors.
 2. SerenApp upgrades
-   We'd like to upgrade our SerenApp by having it available accross platforms (i.e. iOS, Android, and Web) to
+   We'd like to upgrade our SerenApp by having it available across platforms (i.e. iOS, Android, and Web) to
    make it accessible to more users. We'd also like to upgrade the UX and UI of the app to make it more intuitive.
 3. Serena Emotion Detector upgrades
    We'll prioritize upgrading our model's accuracy by detecting the user's emotions through
@@ -101,5 +101,5 @@ Some ideas that we have for the future are:
 4. Innovative Gadgets
    We'd want to innovate other wellbeing enhancing products that utilizes AI to adjust
    their configurations based on the user's current state. Some products we have in mind
-   are smart air purifiers, smart speakers to blast out the best songs based on the users current mood,
-   and a smart robot called SerBo that can adjust its responses based on the users current mood.
+   are smart air purifiers, smart speakers to blast out the best songs based on the user's current mood,
+   and a smart robot called SerBo that can adjust its responses based on the user's current mood.
