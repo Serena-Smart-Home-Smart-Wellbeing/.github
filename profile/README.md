@@ -58,10 +58,13 @@ is the most dominant shape since our main goal is to always prioritize nature an
 ## Results
 
 You can see the explaination of our project in the video below:
-<!-- TODO tambah video YouTube https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages -->
+[![Presentation Thumb](<./profile/Presentation Thumb.png>)](https://youtu.be/A52kqebpRqg)
 
-We acquired 95% completion for our project's progress. Considering the scope of our project and
-our teams' capabilities still being students, we are satisfied with the results.
+We acquired 97.6% completion for our project's progress based on our plans. There were 2 features
+we weren't able to implement in time: 1 in SerenApp due to our single mobile developer
+having health problems near the end of capstone and 1 in SerenBox since our prototype got damaged during testing.
+Nevertheless, considering the scope of our project and
+our teams' capabilities still being students, we are very satisfied with the results.
 
 There are 5 repositories in this GitHub organization which are all well-documented
 for you to understand each part of our project:
