@@ -1,6 +1,6 @@
 # Serena: Smart Home, Smart Wellbeing
 
-![Serena Banner](<./Serena Banner.png>)
+![Serena Banner](<./profile/Serena Banner.png>)
 
 - [Serena: Smart Home, Smart Wellbeing](#serena-smart-home-smart-wellbeing)
   - [Team](#team)
@@ -47,7 +47,7 @@ that best match the user’s current mood.
 
 ## Philosophy
 
-![Serena Logo](<./Serena Logo.jpeg>)
+![Serena Logo](<./profile/Serena Logo.jpeg>)
 
 Our logo is a technological leaf, signifying our commitment to harmonizing nature and technology.
 The leaf shape and soft teal colors represents our usage of aromatherapy and nature in our brand.
